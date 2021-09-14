@@ -2,7 +2,7 @@
 
 ## Setup
 
-To set up the project, create virtual environment and install Scrapy, Pillow, Python-Slugify.
+To set up the project, create virtual environment and install Scrapy, Pillow, &Python-Slugify.
 
 ```bash
 pip install -r requirements.txt
@@ -11,5 +11,5 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-scrapy crawl product -o prods.csv
+scrapy crawl products -o prods.csv
 ```
